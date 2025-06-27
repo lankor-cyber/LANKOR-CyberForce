@@ -23,9 +23,7 @@ LANKOR is an elite Indian cybersecurity and ethical hacking team focused on digi
 
 ## 👥 Team:
 - **Navaneethan P** – Founder & Red Team Lead
-- **Devaraj V** – Web Pentester
 - **Kaviya A** – OSINT & Malware Analyst
-- **Nandhini P** – Reports & Documentation
 
 ## 📬 Contact:
 📧 lankor.cyberforce@gmail.com  
